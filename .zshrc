@@ -103,7 +103,7 @@ source $ZSH/oh-my-zsh.sh
 
 export RTV_BROWSER=w3m
 export VISUAL=vim
-export EDITOR=vi
+export EDITOR=vim
 export TERMINAL=termite
 
 PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
