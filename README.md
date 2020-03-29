@@ -1,9 +1,10 @@
 # Dotfiles
+
 ## What are dotfiles
 Dotfiles get their name from the letter they start with, which is a dot. They are files that are hidden by default and often used for config files. However, I also other config files in this repository that aren't dotfiles.
 
 ## Why are these dotfiles here?
-The advantage of using Github to manage your config files is that you can go back to any change that has been made and, if needed, download the old version and replace it with a new, possibly broken, version on your computer. It can also be used to quickly download (or git clone) all config files you need to get started on a new computer. Lastly, it is a lot easier to share your always updated config files with other people.
+The advantage of using Gitlab to manage your config files is that you can go back to any change that has been made and, if needed, download the old version and replace it with a new, possibly broken, version on your computer. It can also be used to quickly download (or git clone) all config files you need to get started on a new computer. Lastly, it is a lot easier to share your always updated config files with other people.
 
 ## How can I use these files?
 
@@ -12,8 +13,8 @@ The advantage of using Github to manage your config files is that you can go bac
 2. Vim is pre-installed on most Linux distributions, however I use Vim in the terminal. I am not sure if any of the configs work with gVim or neoVim or any of the other types of vim. (if you want to use my .vim configs)¹
 3. Ranger is the file manager I use. I am not sure whether it comes pre-installed with most Linux distributions, so please check whether Ranger has been installed. (if you want to use my ranger configs)
 4. [Pywal](https://github.com/dylanaraps/pywal) is highly recommended for changing backgrounds and colours on the fly (especially with my Ranger shortcut)
-5. My main editor is Spacemacs, so if you want to use the .emacs.d and .spacemacs files, you need to install Spacemacs (and Emacs)
-6. The mdv program
+5. The mdv program
+6. I use `neomutt` for my emails, so you'll need that as well
 
 ### ¹Vim Plugins
 The .vimrc contains several plug-ins that are used with Vundle. Vundle should already be included with the configuration files. However, in order to be able to use these plug-ins you need to start vim and type
@@ -106,10 +107,3 @@ Here is a quick overview of most of the commands that have been added
     <td>Will start Emacs, Thunderbird and htop respectively</td>
   </tr>
 </table>
-
-
-## Example
-Here is an example of my desktop using pywal to set the background and colours. This will change depending on what background you use. Programs used here are Ranger, htop, neofetch and vim
-<p align="center">
-  <img src="https://img1.picload.org/image/driagara/2017-12-01-195424_1920x1080_sc.png"/>
-</p>

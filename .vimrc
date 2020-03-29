@@ -19,11 +19,11 @@ Plugin 'ctrlpvim/ctrlp.vim' "CtrlP
 Plugin 'dylanaraps/wal.vim' "Pywal
 Plugin 'tpope/vim-surround' "For better surrounding
 Plugin 'christoomey/vim-system-copy'
-Plugin 'JamshedVesuna/vim-markdown-preview' "Markdown
 Plugin 'terryma/vim-smooth-scroll' "Smooth scrolling
 Plugin 'mhartington/oceanic-next' "Theme OceanicNext
 Plugin 'jacoborus/tender.vim' "Theme Tender
 Plugin 'thoughtbot/vim-rspec' "RSpec Plugin
+Plugin 'MikeCoder/markdown-preview.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()
@@ -38,7 +38,6 @@ autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in
 
 "Key Mapping
 let mapleader=","
-let vim_markdown_preview_hotkey='<C-m>'
 autocmd FileType ruby nnoremap <leader>c I#<ESC>
 autocmd FileType vim nnoremap <leader>c I"<ESC>
 autocmd FileType vim inoremap <leader>fc function! ()<CR><+++><CR>endfunction<ESC>3b<ESC>i
@@ -106,6 +105,3 @@ set hlsearch "highlight all occurences of a word that was searched
 set noeb vb t_vb= "Beeping can fuck right off
 set t_ut="" "Disabling Vim's 'Background Color Erase' option to mitigate the problem of wrong background colour rendering
 set breakindent "For better indentation
-let vim_markdown_preview_toggle=2
-let vim_markdown_preview_browser='Firefox'
-let vim_markdown_preview_github=1
