@@ -121,5 +121,4 @@ ranger() {
 }
 
 #For Pywal
-#(wal -r &) 2> bloodyerror.log #Ranger says it's deprecated and it keeps annoying me with this error
 (cat ~/.cache/wal/sequences &)
