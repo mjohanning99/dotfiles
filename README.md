@@ -14,7 +14,9 @@ Afterwards, you simply clone this repository and copy the content of the resulti
 ### Prerequisites
 1. You need to have [i3-gaps](https://github.com/Airblader/i3) installed if you are planning on copying any of the files from the .i3 folder.
 2. Vim is pre-installed on most Linux distributions, however I use Vim in the terminal. I am not sure if any of the configs work with gVim or neoVim or any of the other types of vim. (if you want to use my .vim configs)
+
   * To install the different Vim plugins that I use, you will need to install Vundle which can be downloaded by typing `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim` into your terminal. Afterwards, please try to run `:PluginInstall`; this should then automatically install the different plugins for you. Beware, however, that it may take a couple of seconds depending on your internet speed; it will say "Done!" when every plugin has been successfully downloaded.
+
 3. Ranger is the file manager I use. I am not sure whether it comes pre-installed with most Linux distributions, so please check whether Ranger has been installed. (if you want to use my ranger configs)
 4. [Pywal](https://github.com/dylanaraps/pywal) is highly recommended for changing backgrounds and colours on the fly (especially with my Ranger shortcut)
 5. The mdv program
@@ -23,6 +25,7 @@ Afterwards, you simply clone this repository and copy the content of the resulti
 8. I prefer to use `termite`, as it seems to have much better UTF8 support
 9. If you want to get the most out of `neomutt`, I highly recommend using mutt-wizard
 10. I generally use Zsh as my default Shell
+
   * I use a couple of extensions. To install these, please first download and install `oh-my-zsh` and then download and install`autosuggestions` and `zsh-syntax-highlighting`. Otherwise you won't be able to use my .zshrc.
 
 ### How to get my set-up
