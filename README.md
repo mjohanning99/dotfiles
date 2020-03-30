@@ -70,7 +70,7 @@ Here is a quick overview of most of the commands that have been added
   <tr>
   <tr>
     <td>Ranger</td>
-    <td>oM, oE, oV, oW<td>
+    <td>oM, oE, oV, oW</td>
     <td>oM parses a markdown file using mdv and displays it using w3m – the others open the selected file using Emacs, Vim or w3m respectively</td>
   </tr>
     <td>Ranger</td>
