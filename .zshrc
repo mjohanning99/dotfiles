@@ -29,8 +29,6 @@ export TERMINAL=termite
 bindkey '^ ' autosuggest-accept
 bindkey '^\n' autosuggest-execute
 
-PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
-
 #cdn + number will move to the xth parent directory (cdn 2 = cd ../..)
 function cdn() { for i in `seq $1`; do cd ..; done; }
 
@@ -45,3 +43,6 @@ ranger() {
 
 #For Pywal
 (cat ~/.cache/wal/sequences &)
+
+#Path changes
+PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
