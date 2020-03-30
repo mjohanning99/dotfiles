@@ -1,5 +1,7 @@
 # Dotfiles
 
+<img src="scrot.png">
+
 ## What are dotfiles
 Dotfiles get their name from the letter they start with, which is a dot. They are files that are hidden by default and often used for config files. However, I also other config files in this repository that aren't dotfiles.
 
