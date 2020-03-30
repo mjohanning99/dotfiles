@@ -1,4 +1,3 @@
-# If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
@@ -68,10 +67,7 @@ ZSH_THEME="afowler"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
-plugins=(zsh-autosuggestions)
-plugins=(zsh-syntax-highlighting)
-
+plugins=(git zsh-autosuggestions z zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -101,10 +97,18 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # Other environment variable changes
 
+alias mail="mbsync -a ; neomutt"
+alias email="mbsync -a ; neomutt"
+alias mutt="mbsync -a ; neomutt"
+alias download_mail="mbsync -a"
+
 export RTV_BROWSER=w3m
 export VISUAL=vim
 export EDITOR=vim
 export TERMINAL=termite
+
+bindkey '^ ' autosuggest-accept
+bindkey '^\n' autosuggest-execute
 
 PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
 
