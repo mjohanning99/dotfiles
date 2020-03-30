@@ -23,7 +23,7 @@ Plugin 'terryma/vim-smooth-scroll' "Smooth scrolling
 Plugin 'mhartington/oceanic-next' "Theme OceanicNext
 Plugin 'jacoborus/tender.vim' "Theme Tender
 Plugin 'thoughtbot/vim-rspec' "RSpec Plugin
-Plugin 'MikeCoder/markdown-preview.vim'
+Plugin 'MikeCoder/markdown-preview.vim' "Markdown preview
 
 " All of your Plugins must be added before the following line
 call vundle#end()
