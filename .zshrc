@@ -11,9 +11,12 @@ ZSH_THEME="xiong-chiamiov"
 plugins=(git zsh-autosuggestions z zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 
-# User configuration
+#User configuration
+#
 #Aliases
+#
 #Email aliases
+#
 alias mail="mbsync -a ; neomutt" #Automatically download new emails and open neomutt
 alias email="mbsync -a ; neomutt"
 alias mutt="mbsync -a ; neomutt"
@@ -27,7 +30,7 @@ export TERMINAL=termite
 
 #Keybindings for autosuggest
 bindkey '^ ' autosuggest-accept
-bindkey '^\n' autosuggest-execute
+bindkey '^\n' autosuggest-execute #Doesn't seem work, Ctrl+<CR>
 
 #cdn + number will move to the xth parent directory (cdn 2 = cd ../..)
 function cdn() { for i in `seq $1`; do cd ..; done; }
