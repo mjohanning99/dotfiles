@@ -25,6 +25,7 @@ Afterwards, you simply clone this repository and copy the content of the resulti
 8. I prefer to use `termite`, as it seems to have much better UTF8 support
 9. If you want to get the most out of `neomutt`, I highly recommend using mutt-wizard
 10. I generally use Zsh as my default Shell
+11. My preferred PDF reader is `zathura`
 
   * I use a couple of extensions. To install these, please first download and install `oh-my-zsh` and then download and install`autosuggestions` and `zsh-syntax-highlighting`. Otherwise you won't be able to use my .zshrc.
 
