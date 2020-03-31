@@ -70,16 +70,14 @@ bindsym Shift+Print --release exec --no-startup-id i3-scrot -s
 bindsym $mod+Ctrl+x --release exec --no-startup-id xkill
 
 #Mode for starting applications
-set $mode_launcher Launch: [m]utt, [h]top, [w]hatsapp, [n]emo, [c]alibre, [a]tom, [d]iscord, [r]eddit, [t]elegram
+set $mode_launcher Launch: [m]utt, [h]top, [w]hatsapp, [n]emo, [c]alibre, [d]iscord, [r]eddit, [t]elegram
 bindsym $mod+Ctrl+e mode "$mode_launcher"
 
 mode "$mode_launcher" {
   bindsym m exec termite -e "neomutt"
   bindsym h exec termite -e "htop"
-  bindsym e exec emacs
   bindsym n exec nemo
   bindsym c exec calibre
-  bindsym a exec atom
   bindsym d exec discord
   bindsym r exec termite -e "tuir"
   bindsym w exec whatsapp-nativefier
@@ -487,5 +485,3 @@ mode "$mode_gaps_outer" {
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
-
-
