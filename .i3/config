@@ -89,6 +89,18 @@ mode "$mode_launcher" {
   bindsym Return mode "default"
 }
 
+#Mode for toggling TouchPad
+set $touchpad_toggle [E]nable, [D]isable
+
+bindsym $mod+Shift+t mode "$touchpad_toggle"
+mode "$touchpad_toggle" {
+  bindsym e exec xinput --enable "AlpsPS/2 ALPS DualPoint TouchPad"
+  bindsym d exec xinput --disable "AlpsPS/2 ALPS DualPoint TouchPad"
+
+  bindsym Escape mode "default"
+  bindsym Return mode "default"
+}
+
 
 # focus_follows_mouse no
 
