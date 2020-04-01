@@ -14,28 +14,24 @@ Afterwards, you simply clone this repository and copy the content of the resulti
 ### Prerequisites
 1. You need to have [i3-gaps](https://github.com/Airblader/i3) installed if you are planning on copying any of the files from the .i3 folder.
 2. Vim is pre-installed on most Linux distributions, however I use Vim in the terminal. I am not sure if any of the configs work with gVim or neoVim or any of the other types of vim. (if you want to use my .vim configs)
-
-  * To install the different Vim plugins that I use, you will need to install Vundle which can be downloaded by typing `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim` into your terminal. Afterwards, please try to run `:PluginInstall`; this should then automatically install the different plugins for you. Beware, however, that it may take a couple of seconds depending on your internet speed; it will say "Done!" when every plugin has been successfully downloaded.
+    * To install the different Vim plugins that I use, you will need to install Vundle which can be downloaded by typing `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim` into your terminal. Afterwards, please try to run `:PluginInstall`; this should then automatically install the different plugins for you. Beware, however, that it may take a couple of seconds depending on your internet speed; it will say "Done!" when every plugin has been successfully downloaded.
 
 3. Ranger is the file manager I use. I am not sure whether it comes pre-installed with most Linux distributions, so please check whether Ranger has been installed. (if you want to use my ranger configs)
 4. [Pywal](https://github.com/dylanaraps/pywal) is highly recommended for changing backgrounds and colours on the fly (especially with my Ranger shortcut)
 5. The mdv program
 6. I use `neomutt` for my emails, so you'll need that as well
 7. I use `rofi` as a program launcher ($mod+d)
-8. I prefer to use `st` as my terminal emulator. You can find my build here on Github as well
+8. I prefer to use `st` as my terminal emulator. You can find my build here on Gitlab as well (https://gitlab.com/mjohanning/suckless-st)
 9. If you want to get the most out of `neomutt`, I highly recommend using mutt-wizard
 10. I generally use Zsh as my default Shell
 11. My preferred PDF reader is `zathura`
-
-  * I use a couple of extensions. To install these, please first download and install `oh-my-zsh` and then download and install`autosuggestions` and `zsh-syntax-highlighting`. Otherwise you won't be able to use my .zshrc.
+    * I use a couple of extensions. To install these, please first download and install `oh-my-zsh` and then download and install`autosuggestions` and `zsh-syntax-highlighting`. Otherwise you won't be able to use my .zshrc.
+12. For viewing images I use `feh` (and it's the default image viewer in my `rifle.conf` as well)
 
 ### How to get my set-up
 In order to use these config files, you should firstly create a backup of your current config files (I recommend using git and Github for that as well. If that is too complicated, just rename them to something like configname.copy). After having created a backup of all important config files, you simply need to replace all all your files with the ones in this repository. Some config files have my username included, which means that if you try to run said config file you will most likely run into an error. Should you run into an error when running a config file or should something not work as intended, please check the config file and see if it includes my username and remove it.
 
 _**DISCLAIMER! USE AT OWN RISK!** I cannot be made responsible for any harm done to your computer_
-
-## Fonts
-Fonts are not included in this repository. The font I use for my Terminal (URxvt) is Adobe's _Source Code Pro_. You will need to download that yourself using your package manager.
 
 ## Keybindings
 These config files also include a large number of keybindings that have been tweaked or added to my liking. When using my configuration, please be aware that the keybindings that you are used to might have been changed.
@@ -49,8 +45,8 @@ Here is a quick overview of most of the commands that have been added
   </tr>
   <tr>
     <td>Ranger</td>
-    <td>CC</td>
-    <td>Pressing CC (change colour) when over an image file will start pywal using that image</td>
+    <td>CC(w/z/c/</td>
+    <td>Pressing CC(w/c/z) (change colour) when over an image file will start pywal using that image. `CCw` will use the `wal` backend, the others use `colorthief` and `colorz` respectively.</td>
   </tr>
   <tr>
     <td>Ranger</td>
