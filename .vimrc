@@ -105,3 +105,4 @@ set hlsearch "highlight all occurences of a word that was searched
 set noeb vb t_vb= "Beeping can fuck right off
 set t_ut="" "Disabling Vim's 'Background Color Erase' option to mitigate the problem of wrong background colour rendering
 set breakindent "For better indentation
+autocmd BufWritePost config.h !sudo make clean install

@@ -4,8 +4,8 @@
 export ZSH="/home/sophon/.oh-my-zsh"
 
 #Theme to load
-ZSH_THEME="xiong-chiamiov"
-#duelj, afowler, random
+ZSH_THEME="lukerandall"
+#duelj, afowler, random, xiong-chiamiov, lukerandall, gnzh, clean
 
 #Plugins
 plugins=(git zsh-autosuggestions z zsh-syntax-highlighting)
