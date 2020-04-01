@@ -22,7 +22,7 @@ Afterwards, you simply clone this repository and copy the content of the resulti
 5. The mdv program
 6. I use `neomutt` for my emails, so you'll need that as well
 7. I use `rofi` as a program launcher ($mod+d)
-8. I prefer to use `termite`, as it seems to have much better UTF8 support
+8. I prefer to use `st` as my terminal emulator. You can find my build here on Github as well
 9. If you want to get the most out of `neomutt`, I highly recommend using mutt-wizard
 10. I generally use Zsh as my default Shell
 11. My preferred PDF reader is `zathura`

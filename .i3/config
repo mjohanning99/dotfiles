@@ -26,8 +26,8 @@ font xft:Noto Sans 10
 # Use Mouse+$mod to drag floating windows
 floating_modifier $mod
 
-# start a termite
-bindsym $mod+Return exec termite
+# start a st
+bindsym $mod+Return exec st
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -43,7 +43,7 @@ bindsym $mod+z exec --no-startup-id morc_menu
 ################################################################################################
 
 exec --no-startup-id volumeicon
-#bindsym $mod+Ctrl+m exec termite -e 'alsamixer'
+#bindsym $mod+Ctrl+m exec st -e 'alsamixer'
 #exec --no-startup-id pulseaudio
 #exec --no-startup-id pa-applet
 #bindsym $mod+Ctrl+m exec pavucontrol
@@ -55,11 +55,11 @@ exec --no-startup-id volumeicon
 # bindsym XF86MonBrightnessDown exec "xbacklight -dec 10; notify-send 'brightness down'"
 
 # Start Applications
-bindsym $mod+Ctrl+b exec termite -e 'bmenu'
+bindsym $mod+Ctrl+b exec st -e 'bmenu'
 bindsym $mod+F2 exec qutebrowser
-bindsym $mod+F3 exec termite -e ranger
+bindsym $mod+F3 exec st -e ranger
 bindsym $mod+Shift+F3 exec gksu pcmanfm
-bindsym $mod+F5 exec termite -e 'mocp'
+bindsym $mod+F5 exec st -e 'mocp'
 bindsym $mod+t exec --no-startup-id pkill compton
 bindsym $mod+Ctrl+t exec --no-startup-id compton -b
 bindsym $mod+Shift+d --release exec "killall dunst; exec notify-send 'restart dunst'"
@@ -74,12 +74,12 @@ set $mode_launcher Launch: [m]utt, [h]top, [w]hatsapp, [n]emo, [c]alibre, [d]isc
 bindsym $mod+Ctrl+e mode "$mode_launcher"
 
 mode "$mode_launcher" {
-  bindsym m exec termite -e "neomutt"
-  bindsym h exec termite -e "htop"
+  bindsym m exec st -e "neomutt"
+  bindsym h exec st -e "htop"
   bindsym n exec nemo
   bindsym c exec calibre
   bindsym d exec discord
-  bindsym r exec termite -e "tuir"
+  bindsym r exec st -e "tuir"
   bindsym w exec whatsapp-nativefier
   bindsym t exec telegram-desktop
 
@@ -321,14 +321,14 @@ exec --no-startup-id ibus-daemon
 exec --no-startup-id wal -R
 exec_always wal -R
 
-# Color palette used for the termite ( ~/.extend.Xresources file )
+# Color palette used for the st ( ~/.extend.Xresources file )
 # Colors are gathered based on the documentation:
 # https://i3wm.org/docs/userguide.html#xresources
 # Change the variable name at the place you want to match the color
-# of your termite like this:
+# of your st like this:
 # [example]
 # If you want your bar to have the same background color as your
-# termite background change the line 362 from:
+# st background change the line 362 from:
 # background  $i3_background
 # to:
 # background $term_background
