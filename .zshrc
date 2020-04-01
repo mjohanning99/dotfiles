@@ -22,6 +22,11 @@ alias email="mbsync -a ; neomutt"
 alias mutt="mbsync -a ; neomutt"
 alias download_mail="mbsync -a"
 
+#Command Aliases
+#
+alias l="ls -sh"
+alias la="ls -ash"
+
 #Variable exports
 export RTV_BROWSER=w3m
 export VISUAL=vim
