@@ -245,6 +245,8 @@ for_window [class="Xfburn"] floating enable
 for_window [class="Viewnior"] floating enable
 for_window [class="feh"] floating enable
 for_window [class="mpv"] floating disable
+for_window [class="sxiv"] floating enable
+for_window [class="Sxiv"] floating enable
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus
