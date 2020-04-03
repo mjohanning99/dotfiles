@@ -62,4 +62,5 @@ source ~/.cache/wal/colors-tty.sh
 #Path changes
 PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
 
+#Searching through history with dmenu
 alias history='cat $HISTFILE | sed -e "s/^:[ \t]*[0-9]*:[0-9]*;//g" | dmenu "$@" -l 7 -p "Command:" | ${SHELL:-"/bin/zsh"}'

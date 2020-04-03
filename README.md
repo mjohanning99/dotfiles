@@ -26,7 +26,8 @@ Afterwards, you simply clone this repository and copy the content of the resulti
 10. I generally use Zsh as my default Shell
 11. My preferred PDF reader is `zathura`
     * I use a couple of extensions. To install these, please first download and install `oh-my-zsh` and then download and install`autosuggestions` and `zsh-syntax-highlighting`. Otherwise you won't be able to use my .zshrc.
-12. For viewing images I use `feh` (and it's the default image viewer in my `rifle.conf` as well)
+12. For viewing images I use `sxiv` (You can find my own version of sxiv here on Gitlab as well)
+13. I use dmenu for a few things, most notably as an application launcher and as a nice way of browsing through the terminal history and running commands. My build with some patches is on Gitlab as well.
 
 ### How to get my set-up
 In order to use these config files, you should firstly create a backup of your current config files (I recommend using git and Github for that as well. If that is too complicated, just rename them to something like configname.copy). After having created a backup of all important config files, you simply need to replace all all your files with the ones in this repository. Some config files have my username included, which means that if you try to run said config file you will most likely run into an error. Should you run into an error when running a config file or should something not work as intended, please check the config file and see if it includes my username and remove it.
