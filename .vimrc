@@ -1,5 +1,4 @@
  ".vimrc Marvin Johanning @ marvinjohanning.de
- 
 set nocompatible
 filetype off
 
@@ -22,8 +21,9 @@ Plugin 'christoomey/vim-system-copy'
 Plugin 'terryma/vim-smooth-scroll' "Smooth scrolling
 Plugin 'mhartington/oceanic-next' "Theme OceanicNext
 Plugin 'jacoborus/tender.vim' "Theme Tender
-Plugin 'thoughtbot/vim-rspec' "RSpec Plugin
+" Plugin 'thoughtbot/vim-rspec' "RSpec Plugin
 Plugin 'MikeCoder/markdown-preview.vim' "Markdown preview
+Plugin 'lervag/vimtex'
 
 " All of your Plugins must be added before the following line
 call vundle#end()
@@ -54,7 +54,7 @@ nnoremap <C-z> <ESC>u
 "leader plus ( will create () and put user inside
 nnoremap <leader>" viw<ESC>a"<ESC>bi"<ESC>lel
 nnoremap <leader>' viw<ESC>a'<ESC>bi'<ESC>ll
-nnoremap <Space><Space> <kDivide><+++><CR>ciw
+nnoremap <Space><Space> <kDivide><+++><CR>ca<
 "- will delete the line and paste it on the line below
 nnoremap - 0y$Do<ESC>p$i<ESC>
 "Open .vimrc (ev) and source it (sv)
@@ -66,10 +66,13 @@ noremap <silent> <c-d> :call smooth_scroll#down(&scroll, 0, 2)<CR>
 noremap <silent> <c-b> :call smooth_scroll#up(&scroll*2, 0, 4)<CR>
 noremap <silent> <c-f> :call smooth_scroll#down(&scroll*2, 0, 4)<CR>
 "RSpec mappings
-map <Leader>t :call RunCurrentSpecFile()<CR>
-map <Leader>s :call RunNearestSpec()<CR>
-map <Leader>l :call RunLastSpec()<CR>
-map <Leader>a :call RunAllSpecs()<CR>
+"map <Leader>t :call RunCurrentSpecFile()<CR>
+"map <Leader>s :call RunNearestSpec()<CR>
+"map <Leader>l :call RunLastSpec()<CR>
+"map <Leader>a :call RunAllSpecs()<CR>
+
+nnoremap <leader>q i"`<+++>"'<ESC>
+let g:vimtex_view_general_viewer = 'zathura'
 
 "Colour stuff
 syntax on
