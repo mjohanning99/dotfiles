@@ -28,7 +28,7 @@ alias l="ls -sh"
 alias la="ls -ash"
 
 #Variable exports
-export RTV_BROWSER=w3m
+export TUIR_BROWSER=w3m
 export VISUAL=vim
 export EDITOR=vim
 export TERMINAL=termite
