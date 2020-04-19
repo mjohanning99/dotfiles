@@ -1,4 +1,6 @@
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+# .zshrc Marvin Johanning @ marvinjohanning.de
+
+#pfetch
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/sophon/.oh-my-zsh"
@@ -23,15 +25,15 @@ alias mutt="mbsync -a ; neomutt"
 alias download_mail="mbsync -a"
 
 #Command Aliases
-#
 alias l="ls -sh"
 alias la="ls -ash"
+alias vifm="vifmrun"
 
 #Variable exports
 export RTV_BROWSER=w3m
 export VISUAL=vim
 export EDITOR=vim
-export TERMINAL=termite
+export TERMINAL=st
 
 #Keybindings
 #
