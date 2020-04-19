@@ -23,7 +23,7 @@ Plugin 'mhartington/oceanic-next' "Theme OceanicNext
 Plugin 'jacoborus/tender.vim' "Theme Tender
 " Plugin 'thoughtbot/vim-rspec' "RSpec Plugin
 Plugin 'MikeCoder/markdown-preview.vim' "Markdown preview
-Plugin 'lervag/vimtex'
+Plugin 'lervag/vimtex' " LaTeX 
 
 " All of your Plugins must be added before the following line
 call vundle#end()
@@ -71,8 +71,9 @@ noremap <silent> <c-f> :call smooth_scroll#down(&scroll*2, 0, 4)<CR>
 "map <Leader>l :call RunLastSpec()<CR>
 "map <Leader>a :call RunAllSpecs()<CR>
 
-nnoremap <leader>q i"`<+++>"'<ESC>
-let g:vimtex_view_general_viewer = 'zathura'
+"For creating German-style quotation for LaTeX's babel package
+nnoremap <leader>q i"`<+++>"'<ESC> 
+let g:vimtex_view_general_viewer = 'zathura' " Setting Zathura as the default viewer for LaTeX
 
 "Colour stuff
 syntax on
