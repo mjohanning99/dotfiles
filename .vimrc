@@ -1,6 +1,8 @@
  ".vimrc Marvin Johanning @ marvinjohanning.de
 set nocompatible
 filetype off
+set swapfile
+set dir=~/tmp
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim

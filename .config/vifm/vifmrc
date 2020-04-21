@@ -316,6 +316,7 @@ fileviewer *.tgz,*.tar.gz tar -tzf %c
 fileviewer *.tar.bz2,*.tbz2 tar -tjf %c
 fileviewer *.tar.txz,*.txz xz --list %c
 fileviewer *.tar tar -tf %c
+fileviewer *.tar.xz tar -tf %c
 
 " Rar2FsMount and rar archives
 filetype *.rar
@@ -475,6 +476,9 @@ nnoremap <f5> :copy<cr>
 nnoremap <f6> :move<cr>
 nnoremap <f7> :mkdir<space>
 nnoremap <f8> :delete<cr>
+
+" Close vifm with q
+nnoremap q :q<cr><cr>
 
 " ------------------------------------------------------------------------------
 
