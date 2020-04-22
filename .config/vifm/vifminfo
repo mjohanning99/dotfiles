@@ -373,36 +373,6 @@ d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
 d
 
 # Right window history (oldest to newest):
-D/home/sophon
-	Downloads
-3
-D/home/sophon/Downloads
-	suckless-st
-3
-D/home/sophon
-	Programming
-7
-D/home/sophon/Programming
-	latex
-4
-D/home/sophon/Programming/latex
-	test.tex
-7
-D/home/sophon/Programming
-	ITS-Projekt
-1
-D/home/sophon/Programming/ITS-Projekt
-	wetterstation-raspberry-pi
-1
-D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
-	docs
-1
-D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
-	wetterstation-dokumentation.pdf
-8
-D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
-	docs
-1
 D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
 	wetterstation-dokumentation.aux
 1
@@ -671,8 +641,38 @@ D/home/sophon/Downloads
 	JSesh-7.3.2.zip
 7
 D/home/sophon/Pictures/Wallpapers
-	wp1895648.jpg
-41
+	Landscape
+1
+D/home/sophon/Pictures/Wallpapers/Landscape
+	QvnEmuA.jpg
+8
+D/home/sophon/.config
+	vifm
+32
+D/home/sophon/.config/vifm
+	scripts
+2
+D/home/sophon/.config/vifm/scripts
+	vifmrun
+3
+D/home/sophon/.config/vifm
+	scripts
+2
+D/home/sophon/Documents
+	..
+0
+D/home/sophon/Downloads
+	0xbabaf000l.png
+7
+D/home/sophon/Programming
+	ITS-Projekt
+1
+D/home/sophon
+	Programming
+22
+D/home
+	sophon
+1
 D
 
 # Command line history (oldest to newest):
@@ -739,6 +739,7 @@ D
 /read
 
 # Prompt history (oldest to newest):
+pQvnEmuA.jpg
 p.mbsyncrc
 pTheIntricacies17042020.odt
 p20200415180403_IMG_5995_copy_4500x3000.jpg
@@ -756,6 +757,7 @@ p2020-04-19-adventure-part-6.md
 pscripts
 
 # Local filter history (oldest to newest):
+|mailcap
 |e
 |config
 
@@ -874,6 +876,8 @@ t/home/sophon/.local/share/vifm/Trash/000_EGypto.pdf
 	/home/sophon/Documents/EGypto.pdf
 t/home/sophon/.local/share/vifm/Trash/000_wetter.odt
 	/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs/wetter.odt
+t/home/sophon/.local/share/vifm/Trash/000_QvnEmuA(1).jpg
+	/home/sophon/Pictures/Wallpapers/Landscape/QvnEmuA(1).jpg
 
 # State:
 f

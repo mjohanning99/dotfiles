@@ -59,7 +59,7 @@ bindsym $mod+Ctrl+b exec st -e 'bmenu'
 bindsym $mod+F2 exec chromium
 bindsym $mod+F3 exec st -e vifmrun
 bindsym $mod+Shift+F3 exec gksu pcmanfm
-bindsym $mod+F4 exec "vimb"
+bindsym $mod+F4 exec "tabbed -c vimb -e"
 bindsym $mod+F5 exec st -e 'mocp'
 bindsym $mod+t exec --no-startup-id pkill compton
 bindsym $mod+Ctrl+t exec --no-startup-id compton -b
@@ -81,7 +81,7 @@ mode "$mode_launcher" {
   bindsym n exec nemo
   bindsym c exec calibre
   bindsym d exec discord
-  bindsym r exec st -e "tuir"
+  bindsym r exec st -e "tuir --enable-media"
   bindsym w exec whatsapp-nativefier
   bindsym t exec telegram-desktop
 
@@ -326,14 +326,14 @@ exec --no-startup-id ibus-daemon
 exec --no-startup-id wal -R
 exec_always wal -R
 
-# Color palette used for the st ( ~/.extend.Xresources file )
+# Color palette used for the terminal ( ~/.extend.Xresources file )
 # Colors are gathered based on the documentation:
 # https://i3wm.org/docs/userguide.html#xresources
 # Change the variable name at the place you want to match the color
-# of your st like this:
+# of your terminal like this:
 # [example]
 # If you want your bar to have the same background color as your
-# st background change the line 362 from:
+# Terminal background change the line 362 from:
 # background  $i3_background
 # to:
 # background $term_background
