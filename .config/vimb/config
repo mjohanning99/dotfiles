@@ -1,0 +1,5 @@
+set download-path=~/Downloads
+:nnoremap <C-R> :e! simplyread();<CR>
+
+set default-zoom=80
+#set incsearch=true

@@ -39,8 +39,8 @@
 1586802346
 'k
 	/home/sophon/Programming
-	gopher
-1587155427
+	simplyread-0.8
+1587538071
 'm
 	/home/sophon/MEGASync
 	..
@@ -61,7 +61,7 @@
 # Bookmarks:
 
 # TUI:
-al
+ar
 q1
 v2
 ov
@@ -70,294 +70,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/sophon/Pictures/Wallpapers
-	other
-6
-d/home/sophon/Pictures/Wallpapers/other
-	xwsuFSk.jpg
-28
-d/home/sophon/Pictures/Wallpapers
-	robin-engstrom-somethingintheair-1.jpg
-22
-d/home/sophon/Pictures
-	Wallpapers
-1
-d/home/sophon
-	Documents
-2
-d/home/sophon/Documents
-	Programming
-2
-d/home/sophon/Documents/Programming
-	Books
-1
-d/home/sophon/Documents/Programming/Books
-	Latex
-2
-d/home/sophon/Documents/Programming/Books/Latex
-	LatexEinfuehrung.pdf
-1
-d/home/sophon/Documents/Programming/Books
-	Latex
-2
-d/home/sophon/Documents/Programming/Books/Latex
-	LatexEinfuehrung.pdf
-1
-d/home/sophon/Documents/Programming/Books
-	Rust
-9
-d/home/sophon/Documents/Programming/Books/Rust
-	..
-0
-d/home/sophon/Documents/Programming/Books
-	Rust
-9
-d/home/sophon/Documents/Programming/Books/Rust
-	WhyRust.pdf
-4
-d/home/sophon/Documents/Programming/Books
-	Rust
-9
-d/home/sophon/Documents/Programming
-	Books
-1
-d/home/sophon/Documents
-	Programming
-2
-d/home/sophon
-	MEGAsync
-4
-d/home/sophon/MEGAsync
-	TheIntricaciesOfEgyptianHieroglyphics
-1
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics
-	My Library
-5
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics/My Library
-	My Library.rdf
-1
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics/My Library/My Library.rdf
-	..
-0
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics/My Library
-	My Library.rdf
-1
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics
-	JSesh
-4
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics/JSesh
-	AlteJSeshTexte
-1
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics/JSesh/AlteJSeshTexte
-	45001.png
-10
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics/JSesh
-	SVGs
-3
-d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics
-	TheIntricacies.odt
-7
-d/home/sophon/MEGAsync
-	TheIntricaciesOfEgyptianHieroglyphics
-1
-d/home/sophon
-	website20200417.tar.xz
-15
-d/home/sophon/Downloads
-	dotfiles
-2
-d/home/sophon/Documents
-	Language
-1
-d/home/sophon/Documents/Language
-	AncientEgyptian
-1
-d/home/sophon/Documents/Language/AncientEgyptian
-	BooksEtc
-1
-d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
-	DecansAndCalendar
-1
-d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc/DecansAndCalendar
-	TheCalendarsOfAncientEgypt.pdf
-5
-d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
-	TextsAndTranslations
-2
-d/home/sophon/Documents/Language/AncientEgyptian
-	BooksEtc
-1
-d/home/sophon/Documents/Language
-	AncientEgyptian
-1
-d/home/sophon/Documents
-	Language
-1
-d/home/sophon
-	Pictures
-6
-d/home/sophon/Pictures
-	Wallpapers
-1
-d/home/sophon/Pictures/Wallpapers
-	Classic SciFi Covers Modified to Create 1920X1080 Wallpapers
-1
-d/home/sophon/Pictures/Wallpapers/Classic SciFi Covers Modified to Create 1920X1080 Wallpapers
-	AS9soSu.png
-7
-d/home/sophon/Pictures/Wallpapers
-	subnautica-below-zero-1920x1080-wallpaper006.jpg
-23
-d/home/sophon/Programming
-	latex
-3
-d/home/sophon/Programming/latex
-	test.tex
-7
-d/home/sophon
-	.vimrc
-37
-d/home/sophon/Programming
-	ITS-Projekt
-1
-d/home/sophon/Programming/ITS-Projekt
-	wetterstation-raspberry-pi
-1
-d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
-	docs
-2
-d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
-	..
-0
-d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
-	docs
-2
-d/home/sophon/Programming/ITS-Projekt
-	wetterstation-raspberry-pi
-1
-d/home/sophon/Programming
-	ITS-Projekt
-1
-d/home/sophon
-	Programming
-4
-d/home
-	sophon
-1
-d/home/sophon
-	Programming
-4
-d/home/sophon/Programming
-	ITS-Projekt
-1
-d/home/sophon/Programming/ITS-Projekt
-	wetterstation-raspberry-pi
-1
-d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
-	docs
-2
-d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
-	wetterstation-dokumentation.tex
-11
-d/home/sophon
-	.viminfo
-27
-d/home/sophon/Downloads
-	sxiv-pywal-20200405.tar.xz
-25
-d/home/sophon
-	Downloads
-4
-d/home/sophon/Downloads
-	sxiv-pywal-20200405.tar.xz
-28
-d/home/sophon/.config
-	vifm
-29
-d/home/sophon/.config/vifm
-	vifmrc
-5
-d/home/sophon/Documents
-	Programming
-2
-d/home/sophon/Documents/Programming
-	Books
-1
-d/home/sophon/Programming
-	latex
-4
-d/home/sophon/Programming/latex
-	test.tex
-7
-d/home/sophon/Programming
-	ITS-Projekt
-1
-d/home/sophon/Programming/ITS-Projekt
-	wetterstation-raspberry-pi
-1
-d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
-	docs
-2
-d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
-	wetterstation-dokumentation.tex
-11
-d/home/sophon/Programming
-	babble-on
-2
-d/home/sophon/Programming/babble-on
-	_t60
-5
-d/home/sophon/Programming/babble-on/_t60
-	2020-04-19-adventure-part-6.md
-6
-d/home/sophon/Programming/babble-on
-	_t60
-5
-d/home/sophon/Programming
-	babble-on
-2
-d/home/sophon/Programming/babble-on
-	_t60
-5
-d/home/sophon/Programming/babble-on/_t60
-	2020-04-19-adventure-part-6.md
-6
-d/home/sophon/Programming/babble-on
-	vendor
-7
-d/mnt
-	USB1
-1
-d/mnt/USB1
-	Wallpapers
-2
-d/mnt/USB1/Wallpapers
-	Landscape
-1
-d/mnt/USB1
-	Wallpapers
-17
-d/mnt/USB1/Wallpapers
-	Landscape
-1
-d/mnt/USB1
-	..
-0
-d/home/sophon/Documents
-	Programming
-2
-d/home/sophon/Programming
-	babble-on
-2
-d/home/sophon/Programming/babble-on
-	vendor
-7
-d/home/sophon/Programming/babble-on/vendor
-	..
-0
-d/home/sophon/Programming/babble-on
-	_t60
-5
 d/home/sophon/Programming/babble-on/_t60
 	2020-04-19-adventure-part-6.md
 6
@@ -370,108 +82,297 @@ d/home/sophon/Pictures/Wallpapers
 d/home/sophon/Pictures/Wallpapers/Landscape
 	15_Firewatch.jpg
 1
+d/home/sophon
+	tmp
+6
+d/home/sophon/tmp
+	wetterstation-dokumentation.tex.swp
+1
+d/home/sophon
+	.gnupg
+4
+d/home/sophon/Pictures/Wallpapers
+	Landscape
+1
+d/home/sophon/Pictures/Wallpapers/Landscape
+	sctM4qh.jpg
+20
+d/home/sophon/Pictures/Wallpapers
+	Landscape
+1
+d/home/sophon
+	.cache
+2
+d/home/sophon/.cache
+	dmenu_run
+12
+d/home/sophon
+	.cache
+2
+d/home
+	sophon
+1
+d/home/sophon
+	.dmenurc
+14
+d/home/sophon/Pictures/Wallpapers
+	Sci-Fi
+3
+d/home/sophon/Pictures/Wallpapers/Sci-Fi
+	Starwars
+5
+d/home/sophon/Pictures/Wallpapers/Sci-Fi/Starwars
+	s.jpg
+11
+d/home/sophon/Pictures/Wallpapers/Sci-Fi
+	Cyberpunk
+2
+d/home/sophon/Pictures/Wallpapers/Sci-Fi/Cyberpunk
+	mik2s6P.jpg
+7
+d/home/sophon/Pictures/Wallpapers/Sci-Fi
+	ClassicSciFiCoversModified
+1
+d/home/sophon/Pictures/Wallpapers/Sci-Fi/ClassicSciFiCoversModified
+	4Vuj2SS.png
+2
+d/home/sophon/Pictures/Wallpapers/Sci-Fi
+	Outrun
+3
+d/home/sophon/Pictures/Wallpapers/Sci-Fi/Outrun
+	FxbXZ1q.jpg
+7
+d/home/sophon/Pictures/Wallpapers/Sci-Fi
+	Starwars
+5
+d/home/sophon/Pictures/Wallpapers
+	aesthetic-vaporwave-wallpapers-hd-For-Free-Wallpaper.jpg
+22
+d/home/sophon/Downloads
+	vifm202004160 (1).tar.xz
+30
+d/home/sophon
+	tmp
+12
+d/home/sophon/tmp
+	wetterstation-dokumentation.tex.swp
+1
+d/home/sophon
+	Videos
+11
+d/home/sophon/Downloads
+	vifm202004160 (1).tar.xz
+30
+d/home/sophon
+	Downloads
+4
+d/home/sophon/Downloads
+	wallpapers.tar.xz
+16
+d/home/sophon
+	simplyread-0.8
+13
+d/home/sophon/simplyread-0.8
+	simplyread.js
+9
+d/home/sophon/Downloads
+	easylist.txt
+13
+d/home/sophon
+	tmp
+9
+d/home/sophon/Pictures/Wallpapers
+	aesthetic-vaporwave-wallpapers-hd-For-Free-Wallpaper.jpg
+22
+d/home/sophon/Programming
+	vimb-addons
+5
+d/home/sophon/Programming/vimb-addons
+	simplyread-0.8
+1
+d/home/sophon/Programming
+	vimb-addons
+5
+d/home/sophon/Documents
+	Language
+1
+d/home/sophon/Documents/Language
+	Chinese
+2
+d/home/sophon/Documents
+	Language
+1
+d/home/sophon/Documents/Language
+	Chinese
+2
+d/home/sophon/Documents
+	Language
+1
+d/home/sophon/Documents/Language
+	AncientEgyptian
+1
+d/home/sophon/Documents/Language/AncientEgyptian
+	BooksEtc
+1
+d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
+	..
+0
+d/home/sophon/Documents/Language/AncientEgyptian
+	BooksEtc
+1
+d/home/sophon/Documents/Language
+	AncientEgyptian
+1
+d/home/sophon/Documents
+	Programming
+2
+d/home/sophon/Documents/Programming
+	Documentation
+2
+d/home/sophon/Documents/Programming/Documentation
+	EGypto.pdf
+1
+d/home/sophon/Documents/Programming
+	Documentation
+2
+d/home/sophon/Documents
+	Documentation
+1
+d/home/sophon/Documents/Documentation
+	..
+0
+d/home/sophon/Documents
+	Documentation
+1
+d/home/sophon
+	Documents
+4
+d/home/sophon/Documents
+	Documentation
+1
+d/home/sophon/Documents/Documentation
+	ThinkPad-T60
+1
+d/home/sophon/Documents/Documentation/ThinkPad-T60
+	ThinkPad-T60-Maintenance-Manual.pdf
+1
+d/home/sophon/Documents/Documentation
+	ThinkPad-T60
+1
+d/home/sophon/Documents
+	Language
+2
+d/home/sophon/Documents/Language
+	AncientEgyptian
+1
+d/home/sophon/Documents/Language/AncientEgyptian
+	BooksEtc
+1
+d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
+	..
+0
+d/home/sophon/Documents/Language/AncientEgyptian
+	BooksEtc
+1
+d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
+	DecansAndCalendar
+1
+d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc/DecansAndCalendar
+	Kahl_Textkritische_Bemerkungen_1993.pdf
+4
+d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
+	TextsAndTranslations
+2
+d/home/sophon/Documents/Language/AncientEgyptian
+	BooksEtc
+1
+d/home/sophon/Documents/Language
+	AncientEgyptian
+1
+d/home/sophon/Documents/Language/AncientEgyptian
+	BooksEtc
+1
+d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
+	TextsAndTranslations
+2
+d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc/TextsAndTranslations
+	..
+0
+d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
+	James P. Allen - Middle Egyptian_ An Introduction to the Language and Culture of Hieroglyphs - 2nd edition (2010).pdf
+3
+d/home/sophon/Documents/Language/AncientEgyptian
+	BooksEtc
+1
+d/home/sophon/Documents/Language
+	Chinese
+2
+d/home/sophon/Documents/Language/Chinese
+	..
+0
+d/home/sophon/Documents/Language
+	Chinese
+2
+d/home/sophon/Documents
+	Programming
+3
+d/home/sophon/Documents/Programming
+	Documentation
+2
+d/home/sophon/Documents/Programming/Documentation
+	EGypto.pdf
+1
+d/home/sophon/Documents/Programming
+	Books
+1
+d/home/sophon/Documents/Programming/Books
+	Rust
+9
+d/home/sophon/Documents/Programming/Books/Rust
+	RustForRubyists.pdf
+2
+d/home/sophon/Documents/Programming/Books
+	Rust
+9
+d/home/sophon/Documents/Programming
+	Documentation
+2
+d/home/sophon/Documents
+	Programming
+3
+d/home/sophon
+	..
+0
+d/home/sophon/Documents
+	Programming
+3
+d/home/sophon/Documents/Programming
+	Documentation
+2
+d/home/sophon/Documents
+	Programming
+3
+d/home/sophon
+	Documents
+23
+d/home/sophon/Documents
+	Programming
+3
+d/home/sophon/Programming
+	ITS-Projekt
+1
+d/home/sophon/Programming/ITS-Projekt
+	wetterstation-raspberry-pi
+1
+d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	docs
+2
+d/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
+	wetterstation-dokumentation.tex
+11
 d
 
 # Right window history (oldest to newest):
-D/mnt/Fotos
-	Klassenfahrt 2017
-17
-D/mnt/Fotos/Klassenfahrt 2017
-	IMG_0005.CR2
-12
-D/mnt/Fotos
-	Hochzeit Corinna + Daniel
-15
-D/mnt
-	Games
-6
-D/mnt/Games
-	DOS
-1
-D/mnt/Games/DOS
-	..
-0
-D/mnt/Games
-	DOS
-1
-D/mnt/Games/DOS
-	DRIVERS
-2
-D/mnt/Games
-	DOS
-1
-D/mnt
-	Music
-8
-D/mnt/Music
-	Vaporwave
-4
-D/mnt
-	Posters
-10
-D/mnt/Posters
-	5j8z60wxqwr31.png
-5
-D/mnt
-	Programmierung
-11
-D/mnt/Programmierung
-	PHP
-5
-D/mnt
-	Videos
-14
-D/mnt/Videos
-	Filme
-1
-D/mnt/Videos/Filme
-	Советские фильмы
-3
-D/mnt/Videos/Filme/Советские фильмы
-	Город зеро
-1
-D/mnt/Videos/Filme/Советские фильмы/Город зеро
-	Город зеро.mkv
-2
-D/mnt/Videos/Filme/Советские фильмы
-	Город зеро
-1
-D/mnt/Videos/Filme
-	Советские фильмы
-3
-D/mnt/Videos
-	Filme
-1
-D/mnt
-	Backups
-2
-D/mnt/Backups
-	website20200417.tar.xz
-9
-D/mnt
-	Backups
-2
-D/mnt/Backups
-	website20200417.tar.xz
-9
-D/home/sophon
-	Documents
-2
-D/home/sophon/Documents
-	Programming
-2
-D/home/sophon/Documents/Programming
-	Books
-1
-D/home/sophon/Documents
-	Programming
-2
-D/home/sophon
-	Documents
-2
-D/home
-	sophon
-1
 D/home/sophon
 	Downloads
 3
@@ -673,6 +574,105 @@ D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
 D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
 	wetterstation-dokumentation.pdf
 9
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	docs
+2
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs
+	wetterstation-dokumentation.pdf
+9
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	lib
+3
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/lib
+	bcm2835-1.52.tar.gz
+1
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	.gitignore
+5
+D/home/sophon/Programming/ITS-Projekt
+	wetterstation-raspberry-pi
+1
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	.git
+1
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/.git
+	HEAD
+9
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	.git
+1
+D/home/sophon/Programming/ITS-Projekt
+	wetterstation-raspberry-pi
+1
+D/home/sophon/Programming
+	ITS-Projekt
+1
+D/home/sophon/Programming/ITS-Projekt
+	wetterstation-raspberry-pi
+1
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	lib
+3
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/lib
+	bcm2835-1.52.tar.gz
+1
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	lib
+3
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/lib
+	bcm2835-1.52.tar.gz
+1
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi
+	src
+4
+D/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/src
+	..
+0
+D/home/sophon/.config
+	vimb
+13
+D/home/sophon/.config/vimb
+	config
+3
+D/home/sophon/.config
+	vimb
+13
+D/home/sophon/.config/vimb
+	config
+3
+D/home/sophon
+	simplyread-0.8
+4
+D/home/sophon/simplyread-0.8
+	README
+6
+D/home/sophon
+	simplyread-0.8.xpi.sig
+23
+D/home/sophon/Downloads
+	ungoogled-chromium_80.0.3987.149-2.1_linux
+5
+D/home/sophon/.config
+	wyebadblock
+37
+D/home/sophon/.config/wyebadblock
+	easylist.txt
+1
+D/home/sophon/Pictures/Wallpapers
+	..
+0
+D/home/sophon/Downloads
+	simplyread-0.8.tar.bz2
+22
+D/home/sophon
+	Downloads
+22
+D/home/sophon/Downloads
+	JSesh-7.3.2.zip
+7
+D/home/sophon/Pictures/Wallpapers
+	wp1895648.jpg
+41
 D
 
 # Command line history (oldest to newest):
@@ -693,11 +693,17 @@ D
 :mkd latex
 :mkd docs
 :touch wetterstation-dokumentation.tex
-:q
 :colorscheme
+:touch config
+:q
+:mkd vimb-addons
+:Documentation
+:mkd Documentation
+:mkd ThinkPad-T60
+:wla
+:colorz
 :thief
 :wal
-:colorz
 
 # Search history (oldest to newest):
 /mine
@@ -727,8 +733,13 @@ D
 /mut
 /msmp
 /vim
+/simply
+/siple
+/simple
+/read
 
 # Prompt history (oldest to newest):
+p.mbsyncrc
 pTheIntricacies17042020.odt
 p20200415180403_IMG_5995_copy_4500x3000.jpg
 p20200415180403_IMG_
@@ -742,11 +753,13 @@ p2020-04-16-adventure-part-4.md
 p2020-04-17-adventure-part-5.md
 p.gitignore
 p2020-04-19-adventure-part-6.md
+pscripts
 
 # Local filter history (oldest to newest):
+|e
+|config
 
 # Registers:
-""/home/sophon/.local/share/vifm/Trash/000_ixZB6vH7J2fFVwJFW7CRjcjihhsJAaKsoU6pAvOa2V8.jpg
 
 # Directory stack (oldest to newest):
 
@@ -847,6 +860,20 @@ t/home/sophon/.local/share/vifm/Trash/000_Wallpapers
 	/home/sophon/Pictures/Wallpapers
 t/home/sophon/.local/share/vifm/Trash/000_ixZB6vH7J2fFVwJFW7CRjcjihhsJAaKsoU6pAvOa2V8.jpg
 	/home/sophon/Pictures/Wallpapers/ixZB6vH7J2fFVwJFW7CRjcjihhsJAaKsoU6pAvOa2V8.jpg
+t/home/sophon/.local/share/vifm/Trash/000_:
+	/home/sophon/:
+t/home/sophon/.local/share/vifm/Trash/000_test.odt
+	/home/sophon/Documents/test.odt
+t/home/sophon/.local/share/vifm/Trash/000_wetter.docx
+	/home/sophon/Documents/wetter.docx
+t/home/sophon/.local/share/vifm/Trash/002_wetterstation-dokumentation.pdf
+	/home/sophon/Documents/wetterstation-dokumentation.pdf
+t/home/sophon/.local/share/vifm/Trash/000_wetterstation-dokumentation.tex
+	/home/sophon/Documents/wetterstation-dokumentation.tex
+t/home/sophon/.local/share/vifm/Trash/000_EGypto.pdf
+	/home/sophon/Documents/EGypto.pdf
+t/home/sophon/.local/share/vifm/Trash/000_wetter.odt
+	/home/sophon/Programming/ITS-Projekt/wetterstation-raspberry-pi/docs/wetter.odt
 
 # State:
 f

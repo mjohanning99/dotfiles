@@ -59,6 +59,7 @@ bindsym $mod+Ctrl+b exec st -e 'bmenu'
 bindsym $mod+F2 exec chromium
 bindsym $mod+F3 exec st -e vifmrun
 bindsym $mod+Shift+F3 exec gksu pcmanfm
+bindsym $mod+F4 exec "vimb"
 bindsym $mod+F5 exec st -e 'mocp'
 bindsym $mod+t exec --no-startup-id pkill compton
 bindsym $mod+Ctrl+t exec --no-startup-id compton -b
