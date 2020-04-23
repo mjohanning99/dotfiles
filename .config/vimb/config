@@ -2,4 +2,11 @@ set download-path=~/Downloads
 :nnoremap <C-R> :e! simplyread();<CR>
 
 set default-zoom=80
+set webgl=true
 #set incsearch=true
+
+#:aug youtube
+#: au LoadStarting http{s,}://{www.}youtube.{com,de}/watch* :shell! mpv $VIMB_URI
+#:aug end
+
+

@@ -183,6 +183,11 @@ fileviewer *.pdf
         \ vifmimg pdfpreview %px %py %pw %ph %c %CLEAR
         \ %pc
         \ vifmimg clear
+" EPUB
+filextype *.epub zathura %c %i &
+
+"Markdown
+filextype *.markdown,*.md pandoc %f | w3m -T text/html
 
 " PostScript
 filextype *.ps,*.eps,*.ps.gz
