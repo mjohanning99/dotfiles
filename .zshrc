@@ -63,6 +63,7 @@ source ~/.cache/wal/colors-tty.sh
 
 #Path changes
 PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
+PATH="/usr/local/inferno/Linux/386/bin:$PATH"
 export PATH="$PATH:$HOME/.rvm/bin" #Must be the last PATH change!
 
 #Searching through history with dmenu
