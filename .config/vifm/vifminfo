@@ -62,254 +62,188 @@
 
 # TUI:
 al
-q0
+q1
 v2
 ov
 m-1
-l2
-r2
+l11,2
+r11,2
 
 # Left window history (oldest to newest):
-d/home/sophon/Documents/Programming
-	Books
-1
-d/home/sophon/Documents/Programming/Books
-	Latex
+d/home/sophon/Programming/vimb-addons/wyebadblock
+	README.md
+6
+d/home/sophon/Programming/vimb-addons
+	wyebadblock
 2
-d/home/sophon/Documents
-	School
-4
-d/home/sophon/Documents/School
-	..
-0
-d/home/sophon/Documents
-	School
-4
-d/home/sophon/Documents/School
-	ITS
-1
-d/home/sophon/Documents/School/ITS
-	ProjektWetterstation
-1
-d/home/sophon/Documents/School/ITS/ProjektWetterstation
-	wetterstation-dokumentation.pdf
-1
-d/home/sophon/Documents/School/ITS
-	ProjektWetterstation
-1
-d/home/sophon/Documents/School
-	ITS
-1
-d/home/sophon/Documents
-	School
-4
-d/home/sophon/Documents/School
-	ITS
-1
+d/home/sophon/Programming
+	latex
+6
+d/home/sophon
+	Programming
+7
 d/home/sophon/Documents
 	ComputerStuff
-1
+2
 d/home/sophon/Documents/ComputerStuff
-	..
-0
-d/home/sophon/Documents
-	ProjectIdeas
+	Documentation
 3
-d/home/sophon/Documents/ProjectIdeas
-	project_ideas.tex
-4
-d/home/sophon/Documents
-	School
-4
-d/home/sophon/Documents/School
-	ITS
+d/home/sophon/Documents/ComputerStuff/Documentation
+	ThinkPad-T60
 1
-d/home/sophon/Documents/School/ITS
-	ProjektWetterstation
+d/home/sophon/Documents/ComputerStuff/Documentation/ThinkPad-T60
+	ThinkPad-T60-Maintenance-Manual.pdf
 1
-d/home/sophon/Documents/School/ITS/ProjektWetterstation
-	wetterstation-dokumentation.tex
-2
-d/home/sophon/Documents/School/ITS
-	ProjektWetterstation
+d/mnt
+	USB1
 1
-d/home/sophon/Documents/School
-	ITS
-1
-d/home/sophon/Documents
-	Language
-2
-d/home/sophon/Documents/Language
-	Chinese
-2
-d/home/sophon/Documents/Language/Chinese
-	100-most-common-radicals.anki
-2
-d/home/sophon/Documents/Language
-	AncientEgyptian
-1
-d/home/sophon/Documents/Language/AncientEgyptian
-	BooksEtc
-1
-d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
-	DecansAndCalendar
-1
-d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc/DecansAndCalendar
-	Kahl_Textkritische_Bemerkungen_1993.pdf
-4
-d/home/sophon/Documents/Language/AncientEgyptian/BooksEtc
-	DecansAndCalendar
-1
-d/home/sophon/Documents/Language/AncientEgyptian
-	BooksEtc
-1
-d/home/sophon/Documents/Language
-	AncientEgyptian
-1
-d/home/sophon/Documents
-	Language
-2
-d/home/sophon
-	Downloads
-24
-d/home/sophon/Downloads
-	ProjectIdeas.zip
-2
+d/
+	mnt
+8
 d/home/sophon
 	MEGAsync
-25
+4
 d/home/sophon/MEGAsync
 	TheIntricaciesOfEgyptianHieroglyphics
 2
 d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics
+	Copies
+3
+d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics/Copies
 	..
 0
-d/home/sophon/MEGAsync
-	TheIntricaciesOfEgyptianHieroglyphics
+d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics
+	TheIntricaciesOfAncientEgyptian.pdf
+9
+d/home/sophon/Documents
+	ComputerStuff
 2
-d/home/sophon
-	Music
-26
-d/home/sophon/Music
+d/home/sophon/Documents/ComputerStuff
+	Documentation
+3
+d/home/sophon/Documents/ComputerStuff/Documentation
+	ThinkPad-T60
+1
+d/home/sophon/Documents/ComputerStuff
+	Documentation
+3
+d/home/sophon/Documents/ComputerStuff/Documentation
+	ThinkPad-T60
+1
+d/home/sophon/Documents/ComputerStuff
 	..
 0
-d/home/sophon
-	Pictures
-27
-d/home/sophon/Pictures
-	Wallpapers
+d/home/sophon/Documents
+	ComputerStuff
+2
+d/home/sophon/Documents/ComputerStuff
+	Articles
 1
-d/home/sophon/Pictures/Wallpapers
-	1aa54d24fc2a8c102ac9f6143836c5fb.png
-4
-d/home/sophon/Pictures
-	Wallpapers
+d/home/sophon/Documents/ComputerStuff/Articles
+	Mine
 1
+d/home/sophon/Documents/ComputerStuff/Articles/Mine
+	inferno
+1
+d/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno
+	inferno.tex
+18
 d/home/sophon
 	Desktop
-22
-d/home/sophon/Desktop
-	..
-0
-d/home/sophon
-	Downloads
-24
-d/home/sophon/Downloads
-	ProjectIdeas.zip
-2
-d/home/sophon
-	Downloads
-24
-d/
-	sys
-16
-d/home/sophon/Pictures/Wallpapers
-	Sci-Fi
-3
-d/home/sophon/Pictures/Wallpapers/Sci-Fi
-	ClassicSciFiCoversModified
 1
-d/home/sophon/Pictures/Wallpapers/Sci-Fi/ClassicSciFiCoversModified
-	pFx1SOt.png
-27
-d/home/sophon/Documents
-	Language
-2
 d/mnt
 	USB1
 1
 d/mnt/USB1
-	Dokumente
-8
-d/mnt/USB1/Dokumente
-	Language
-1
-d/mnt/USB1
-	Documents
-7
-d/mnt/USB1/Documents
-	ProjectIdeas
-4
-d/mnt/USB1
-	Documents
-7
-d/mnt/USB1/Documents
-	Books
-1
-d/mnt/USB1/Documents/Books
 	..
 0
-d/mnt/USB1/Documents
-	Books
+d/mnt
+	USB1
 1
 d/mnt/USB1
+	Videos
+14
+d/mnt/USB1/Videos
+	Filme
+1
+d/mnt/USB1/Videos/Filme
+	Svenska filmar
+2
+d/mnt/USB1/Videos/Filme/Svenska filmar
+	DjavligtJagad.avi
+2
+d/mnt/USB1/Videos/Filme
+	Советские фильмы
+3
+d/mnt/USB1/Videos/Filme/Советские фильмы
+	Город зеро
+1
+d/mnt/USB1/Videos/Filme/Советские фильмы/Город зеро
+	Город зеро.mkv
+2
+d/mnt/USB1
+	..
+0
+d/mnt
+	USB1
+1
+d/mnt/USB1
+	Videos
+14
+d/mnt/USB1/Videos
+	Filme
+1
+d/mnt/USB1/Videos/Filme
+	Советские фильмы
+3
+d/mnt/USB1/Videos/Filme/Советские фильмы
+	Город зеро
+1
+d/mnt/USB1/Videos/Filme/Советские фильмы/Город зеро
+	Город зеро.mkv
+2
+d/mnt/USB1
+	..
+0
+d/home/sophon/Documents
+	Books
+1
+d/home/sophon/Documents/Books
+	..
+0
+d/home/sophon/Documents
+	ComputerStuff
+2
+d/home/sophon/Documents/ComputerStuff
+	Articles
+1
+d/home/sophon/Documents/ComputerStuff/Articles
+	Mine
+1
+d/home/sophon/Documents/ComputerStuff/Articles/Mine
 	..
 0
 d/home/sophon
-	blurlock.service
-37
-d/home/sophon/Documents
-	ComputerStuff
-2
-d/home/sophon/Documents/ComputerStuff
-	Articles
+	tmp
+12
+d/home/sophon/tmp
+	inferno.tex.swp
 1
-d/home/sophon/Documents/ComputerStuff/Articles
-	Mine
-1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine
-	InfernoOS
-1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine/InfernoOS
-	inferno.aux
-1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine
-	MicrosoftApple.pdf
-2
-d/home/sophon/Documents/ComputerStuff/Articles
-	Mine
-1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine
-	PaketRant.pdf
-4
-d/
-	sys
-16
-d/home/sophon/Pictures/Wallpapers
-	Sci-Fi
-3
-d/home/sophon/Pictures/Wallpapers/Sci-Fi
-	Outrun
-3
-d/home/sophon/Pictures/Wallpapers/Sci-Fi/Outrun
-	kErgBFW.jpg
-15
-d/home/sophon/Pictures/Wallpapers/Sci-Fi
-	Starwars
+d/home/sophon
+	Pictures
+7
+d/home/sophon/Pictures
+	..
+0
+d/home/sophon
+	Monero
 5
-d/home/sophon/Pictures/Wallpapers/Sci-Fi/Starwars
-	2WVo2OB.jpg
-1
+d/home/sophon/Monero
+	..
+0
+d/home/sophon
+	Documents
+2
 d/home/sophon/Documents
 	ComputerStuff
 2
@@ -320,39 +254,69 @@ d/home/sophon/Documents/ComputerStuff/Articles
 	Mine
 1
 d/home/sophon/Documents/ComputerStuff/Articles/Mine
-	InfernoOS
+	inferno
 1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine/InfernoOS
-	..
-0
-d/home/sophon/Documents/ComputerStuff/Articles/Mine
-	InfernoOS
-1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine/InfernoOS
-	..
-0
-d/home/sophon/Documents/ComputerStuff/Articles/Mine
-	InfernoOS
-1
-d/home/sophon/Documents/ComputerStuff/Articles
-	Mine
-1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine
-	InfernoOS
-1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine/InfernoOS
+d/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno
 	inferno.tex
-15
-d/home/sophon/Pictures/Wallpapers
-	Other
-2
-d/home/sophon/Pictures/Wallpapers/Other
-	KatsIbX.jpg
-8
+19
 d/home/sophon/Documents
-	ComputerStuff
+	Language
+3
+d/home/sophon
+	Documents
+2
+d/home/sophon/Documents
+	Language
+3
+d/home/sophon
+	Documents
 2
 d/home/sophon/Programming
+	tabbed
+7
+d/home/sophon
+	Downloads
+3
+d/home/sophon/Downloads
+	Brian W. Kernighan, Dennis M. Ritchie - The C programming language-Prentice Hall (1988)_1.epub
+2
+d/home/sophon
+	Documents
+2
+d/home/sophon/Documents
+	ComputerStuff
+2
+d/home/sophon/Documents/ComputerStuff
+	Articles
+1
+d/home/sophon/Documents/ComputerStuff/Articles
+	Mine
+1
+d/home/sophon/Documents/ComputerStuff
+	Notes
+4
+d/home/sophon/Documents/ComputerStuff/Notes
+	..
+0
+d/home/sophon/Documents/ComputerStuff
+	Documentation
+3
+d/home/sophon/Documents/ComputerStuff/Documentation
+	ThinkPad-T60
+1
+d/home/sophon/Documents/ComputerStuff
+	Books
+2
+d/home/sophon/Documents/ComputerStuff/Books
+	InfernoProgrammingWithLimbo.pdf
+10
+d/home/sophon/Downloads
+	inferno.jpg
+9
+d/home/sophon/Documents
+	Books
+1
+d/home/sophon/Documents/Books
 	..
 0
 d/home/sophon/Documents
@@ -365,113 +329,50 @@ d/home/sophon/Documents/ComputerStuff/Articles
 	Mine
 1
 d/home/sophon/Documents/ComputerStuff/Articles/Mine
-	InfernoOS
+	inferno
 1
-d/home/sophon/Documents/ComputerStuff/Articles/Mine/InfernoOS
-	edit.png
-4
+d/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno
+	inferno.tex
+13
+d/home/sophon/Documents/ComputerStuff/Articles/Mine
+	inferno
+1
+d/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno
+	inferno.tex
+13
+d/home/sophon/.config
+	vifm
+37
+d/home/sophon/.config/vifm
+	..
+0
+d/home/sophon/Pictures/Wallpapers
+	jim-moore-hyugo-01.jpg
+22
+d/home/sophon
+	Documents
+7
+d/home
+	sophon
+1
+d/home/sophon/Documents
+	ComputerStuff
+7
+d/home/sophon/Documents/ComputerStuff
+	Documentation
+2
+d/home/sophon/Documents/ComputerStuff/Documentation
+	ThinkPad-T60
+1
+d/home/sophon/Documents/ComputerStuff/Documentation/ThinkPad-T60
+	ThinkPad-T60-Maintenance-Manual.pdf
+1
+d/home/sophon/Pictures/Wallpapers
+	seascape-wallpaper-7.jpg
+30
 d
 
 # Right window history (oldest to newest):
-D/home/sophon/Documents/ComputerStuff/Documentation
-	ThinkPad-T60
-1
-D/home/sophon/Documents/ComputerStuff
-	Documentation
-3
-D/home/sophon/Documents
-	ComputerStuff
-2
-D/home/sophon/Pictures/Wallpapers
-	qkp778240ohx.jpg
-37
-D/home/sophon/Programming
-	inferno-os
-5
-D/home/sophon/Programming/inferno-os
-	AIX
-2
-D/home/sophon/Programming
-	Chicago95
-1
-D/home/sophon/Programming/Chicago95
-	Screenshots
-10
-D/home/sophon/Programming/Chicago95/Screenshots
-	Desktop0.png
-2
-D/
-	sys
-16
-D/home/sophon/Pictures/Wallpapers
-	luciano-neves-ocean-vra-b-top0000.jpg
-20
-D/home/sophon/Downloads
-	Brian W. Kernighan, Dennis M. Ritchie - The C programming language-Prentice Hall (1988)_1.epub
-1
-D/home/sophon/Documents
-	ProjectIdeas
-5
-D/home/sophon/Documents/ProjectIdeas
-	project_ideas.pdf
-3
-D/home/sophon/Documents
-	ProjectIdeas
-5
-D/home/sophon
-	Documents
-17
-D/home/sophon/Documents
-	ComputerStuff
-2
-D/home/sophon/Documents/ComputerStuff
-	Documentation
-3
-D/home/sophon/Documents
-	Books
-1
-D/home/sophon/Documents/Books
-	Alastair Reynolds - Pushing Ice (1974).pdf
-4
-D/home/sophon/Documents
-	ComputerStuff
-2
-D/home/sophon/Documents/ComputerStuff
-	Documentation
-3
-D/home/sophon/Documents/ComputerStuff/Documentation
-	ThinkPad-T60
-1
-D/home/sophon/Documents/ComputerStuff/Documentation/ThinkPad-T60
-	ThinkPad-T60-Maintenance-Manual.pdf
-1
-D/home/sophon/Documents/ComputerStuff/Documentation
-	ThinkPad-T60
-1
-D/home/sophon/Documents/ComputerStuff
-	Documentation
-3
-D/home/sophon/Documents/ComputerStuff/Documentation
-	ThinkPad-T60
-1
-D/home/sophon/Documents/ComputerStuff/Documentation/ThinkPad-T60
-	ThinkPad-T60-Maintenance-Manual.pdf
-1
-D/home/sophon/Documents/ComputerStuff/Documentation
-	ThinkPad-T60
-1
-D/home/sophon/Documents/ComputerStuff
-	Notes
-4
-D/home/sophon/Documents/ComputerStuff/Notes
-	..
-0
-D/home/sophon/Documents/ComputerStuff
-	Notes
-4
-D/home/sophon/Documents
-	ComputerStuff
-2
 D/home/sophon/Documents/ComputerStuff
 	Articles
 1
@@ -672,7 +573,106 @@ D/home/sophon/Pictures
 2
 D/home/sophon/Pictures/screenshots
 	2020-04-27-211704_640x480_scrot.png
-24
+25
+D/home/sophon/Pictures/Wallpapers
+	Sci-Fi
+3
+D/home/sophon/Pictures/Wallpapers/Sci-Fi
+	SimonStahlenhag
+4
+D/home/sophon/Pictures/Wallpapers/Sci-Fi/SimonStahlenhag
+	rzFXxas.jpg
+33
+D/home/sophon/Downloads
+	Brian W. Kernighan, Dennis M. Ritchie - The C programming language-Prentice Hall (1988)_1.epub
+2
+D/home/sophon
+	documents20200424.tar.gz
+16
+D/home/sophon/Documents
+	ComputerStuff
+2
+D/home/sophon/Documents/ComputerStuff
+	Documentation
+3
+D/home/sophon/Documents/ComputerStuff/Documentation
+	ThinkPad-T60
+1
+D/home/sophon/Documents/ComputerStuff/Documentation/ThinkPad-T60
+	ThinkPad-T60-Maintenance-Manual.pdf
+1
+D/home/sophon/Documents/ComputerStuff/Documentation
+	ThinkPad-T60
+1
+D/home/sophon/Documents/ComputerStuff
+	Documentation
+3
+D/home/sophon/Documents/ComputerStuff/Documentation
+	ThinkPad-T60
+1
+D/home/sophon/Documents/ComputerStuff/Documentation/ThinkPad-T60
+	ThinkPad-T60-Maintenance-Manual.pdf
+1
+D/home/sophon/Pictures
+	screenshots
+2
+D/home/sophon/Pictures/screenshots
+	2020-05-03-183816_774x454_scrot.png
+25
+D/home/sophon/Pictures
+	screenshots
+2
+D/home/sophon/Documents
+	Books
+1
+D/home/sophon/Documents/Books
+	WeinbaumStanleyG
+13
+D/home/sophon/Documents
+	ComputerStuff
+2
+D/home/sophon/Documents/ComputerStuff
+	Articles
+1
+D/home/sophon/Documents/ComputerStuff/Articles
+	NotMine
+2
+D/home/sophon/Documents/ComputerStuff/Articles/NotMine
+	..
+0
+D/home/sophon/Documents/ComputerStuff/Articles
+	Mine
+1
+D/home/sophon/Documents/ComputerStuff/Articles/Mine
+	inferno
+1
+D/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno
+	inferno.tex
+13
+D/home/sophon/Documents/ComputerStuff/Articles/Mine
+	inferno
+1
+D/home/sophon
+	..
+0
+D/home/sophon/Pictures/Wallpapers
+	2020-05-18-201819_1068x817_scrot.png
+34
+D/home/sophon/Documents
+	ComputerStuff
+7
+D/home/sophon
+	..
+0
+D/home/sophon/Documents
+	ComputerStuff
+7
+D/home/sophon/Documents/ComputerStuff
+	inferno
+5
+D/home/sophon/Documents/ComputerStuff/inferno
+	inferno.docx
+17
 D
 
 # Command line history (oldest to newest):
@@ -704,15 +704,16 @@ D
 :mkd ITS
 :ProjektWetterstation042020
 :mkdir ProjektWetterstation
-:wla
 ::thief
 :mkd InfernoOS
 :edit
 :colorscheme
+:te
 :wl
 :thief
-:colorz
+:wla
 :wal
+:colorz
 
 # Search history (oldest to newest):
 /infern
@@ -736,7 +737,6 @@ D
 //config
 /range
 /pdf
-/vifm
 /vif
 /neo
 /neomut
@@ -747,6 +747,7 @@ D
 /siple
 /simple
 /read
+/vifm
 
 # Prompt history (oldest to newest):
 pacme
@@ -787,6 +788,7 @@ pfiles
 pfiles-menu
 pbrutus
 pedit
+pinferno
 
 # Local filter history (oldest to newest):
 |mailcap
@@ -797,7 +799,16 @@ pedit
 |.pdf
 
 # Registers:
-""/home/sophon/Pictures/screenshots/2020-04-27-211704_640x480_scrot.png
+""/home/sophon/.local/share/vifm/Trash/002_.viminfo.tmp
+""/home/sophon/.local/share/vifm/Trash/001_.viminfr.tmp
+""/home/sophon/.local/share/vifm/Trash/001_.viminfs.tmp
+""/home/sophon/.local/share/vifm/Trash/002_.viminft.tmp
+""/home/sophon/.local/share/vifm/Trash/002_.viminfu.tmp
+""/home/sophon/.local/share/vifm/Trash/002_.viminfv.tmp
+""/home/sophon/.local/share/vifm/Trash/002_.viminfw.tmp
+""/home/sophon/.local/share/vifm/Trash/002_.viminfx.tmp
+""/home/sophon/.local/share/vifm/Trash/002_.viminfy.tmp
+""/home/sophon/.local/share/vifm/Trash/002_.viminfz.tmp
 
 # Directory stack (oldest to newest):
 
@@ -1022,14 +1033,52 @@ t/home/sophon/.local/share/vifm/Trash/000_documents20200423.tar.gz
 	/home/sophon/Documents/documents20200423.tar.gz
 t/home/sophon/.local/share/vifm/Trash/000_InfernoOS
 	/home/sophon/Documents/ComputerStuff/Articles/Mine/InfernoOS
+t/home/sophon/.local/share/vifm/Trash/000_.git
+	/home/sophon/Programming/tabbed/.git
+t/home/sophon/.local/share/vifm/Trash/000_documents20200424.tar.gz
+	/home/sophon/documents20200424.tar.gz
+t/home/sophon/.local/share/vifm/Trash/000_mpv-shot0001.jpg
+	/home/sophon/mpv-shot0001.jpg
+t/home/sophon/.local/share/vifm/Trash/000_test.sh
+	/home/sophon/test.sh
+t/home/sophon/.local/share/vifm/Trash/000_test1.sh
+	/home/sophon/test1.sh
+t/home/sophon/.local/share/vifm/Trash/000_2020-04-26-150014_1024x768_scrot.png
+	/home/sophon/2020-04-26-150014_1024x768_scrot.png
+t/home/sophon/.local/share/vifm/Trash/000_2020-04-26-150017_774x454_scrot.png
+	/home/sophon/2020-04-26-150017_774x454_scrot.png
+t/home/sophon/.local/share/vifm/Trash/000_Monero
+	/home/sophon/Monero
+t/home/sophon/.local/share/vifm/Trash/000_monero-wallet-cli.log
+	/home/sophon/monero-wallet-cli.log
+t/home/sophon/.local/share/vifm/Trash/000_inferno.log
+	/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno/inferno.log
+t/home/sophon/.local/share/vifm/Trash/000_photo6136425745703086668.jpg
+	/home/sophon/Downloads/photo6136425745703086668.jpg
+t/home/sophon/.local/share/vifm/Trash/000_cover1.png
+	/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno/cover-ideas/cover1.png
+t/home/sophon/.local/share/vifm/Trash/000_cover2.png
+	/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno/cover-ideas/cover2.png
+t/home/sophon/.local/share/vifm/Trash/000_cover3.png
+	/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno/cover-ideas/cover3.png
+t/home/sophon/.local/share/vifm/Trash/000_cover4.png
+	/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno/cover-ideas/cover4.png
+t/home/sophon/.local/share/vifm/Trash/000_cover5.png
+	/home/sophon/Documents/ComputerStuff/Articles/Mine/inferno/cover-ideas/cover5.png
+t/home/sophon/.local/share/vifm/Trash/000_.bitmonero
+	/home/sophon/.bitmonero
+t/home/sophon/.local/share/vifm/Trash/000_Public
+	/home/sophon/Public
+t/home/sophon/.local/share/vifm/Trash/000_Templates
+	/home/sophon/Templates
 
 # State:
 f
 i1
-[.0
+[.1
 [F
 F
 I1
-].1
+].0
 ]F
 s0
