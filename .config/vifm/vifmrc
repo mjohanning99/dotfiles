@@ -148,6 +148,7 @@ command! reload :write | restart
 command! wal wal -i %c --saturate 0.9
 command! colorz wal -i %c --saturate 0.9 --backend colorz
 command! thief wal -i %c --saturate 0.9 --backend colorthief
+command! hai wal -i %c --saturate 0.9 --backend haishoku
 
 " ------------------------------------------------------------------------------
 

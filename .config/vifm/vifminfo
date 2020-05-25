@@ -70,33 +70,6 @@ l11,2
 r11,2
 
 # Left window history (oldest to newest):
-d/home/sophon/Programming/vimb-addons/wyebadblock
-	README.md
-6
-d/home/sophon/Programming/vimb-addons
-	wyebadblock
-2
-d/home/sophon/Programming
-	latex
-6
-d/home/sophon
-	Programming
-7
-d/home/sophon/Documents
-	ComputerStuff
-2
-d/home/sophon/Documents/ComputerStuff
-	Documentation
-3
-d/home/sophon/Documents/ComputerStuff/Documentation
-	ThinkPad-T60
-1
-d/home/sophon/Documents/ComputerStuff/Documentation/ThinkPad-T60
-	ThinkPad-T60-Maintenance-Manual.pdf
-1
-d/mnt
-	USB1
-1
 d/
 	mnt
 8
@@ -369,28 +342,37 @@ d/home/sophon/Documents/ComputerStuff/Documentation/ThinkPad-T60
 1
 d/home/sophon/Pictures/Wallpapers
 	seascape-wallpaper-7.jpg
-30
+22
+d/home/sophon
+	Documents
+7
+d/home/sophon/.config
+	vifm
+22
+d/home/sophon/.config/vifm
+	vifmrc
+4
+d/home/sophon
+	Documents
+7
+d/home/sophon/Pictures/Wallpapers
+	Sci-Fi
+3
+d/home/sophon/Pictures/Wallpapers/Sci-Fi
+	ClassicSciFiCoversModified
+1
+d/home/sophon/Pictures/Wallpapers/Sci-Fi/ClassicSciFiCoversModified
+	kpSQesb.png
+25
+d/home/sophon/Pictures/Wallpapers/Sci-Fi
+	628140.jpg
+23
+d/home/sophon/Pictures/Wallpapers
+	seascape-wallpaper-7.jpg
+13
 d
 
 # Right window history (oldest to newest):
-D/home/sophon/Documents/ComputerStuff
-	Articles
-1
-D/home/sophon/Documents/ComputerStuff/Articles
-	WhyPascalIsNotMyFavouriteProgrammingLanguage.pdf
-2
-D/home/sophon/Documents/ComputerStuff
-	Books
-2
-D/home/sophon/Documents/ComputerStuff/Books
-	LiUnix
-3
-D/home/sophon/Documents/ComputerStuff/Books/LiUnix
-	SysAdminGuide.pdf
-11
-D/home/sophon/Documents/ComputerStuff/Books
-	LiUnix
-3
 D/home/sophon/Documents/ComputerStuff
 	Books
 2
@@ -671,8 +653,26 @@ D/home/sophon/Documents/ComputerStuff
 	inferno
 5
 D/home/sophon/Documents/ComputerStuff/inferno
-	inferno.docx
-17
+	inferno.synctex.gz
+12
+D/home/sophon/Documents/ComputerStuff
+	Books
+3
+D/home/sophon/Documents
+	www
+1
+D/home/sophon
+	.viminfo
+22
+D/home/sophon/Documents
+	ComputerStuff
+7
+D/home/sophon/Documents/ComputerStuff
+	inferno
+5
+D/home/sophon/Documents/ComputerStuff/inferno
+	inferno.tex
+16
 D
 
 # Command line history (oldest to newest):
@@ -713,6 +713,7 @@ D
 :thief
 :wla
 :wal
+:hai
 :colorz
 
 # Search history (oldest to newest):
@@ -799,16 +800,7 @@ pinferno
 |.pdf
 
 # Registers:
-""/home/sophon/.local/share/vifm/Trash/002_.viminfo.tmp
-""/home/sophon/.local/share/vifm/Trash/001_.viminfr.tmp
-""/home/sophon/.local/share/vifm/Trash/001_.viminfs.tmp
-""/home/sophon/.local/share/vifm/Trash/002_.viminft.tmp
-""/home/sophon/.local/share/vifm/Trash/002_.viminfu.tmp
-""/home/sophon/.local/share/vifm/Trash/002_.viminfv.tmp
-""/home/sophon/.local/share/vifm/Trash/002_.viminfw.tmp
-""/home/sophon/.local/share/vifm/Trash/002_.viminfx.tmp
-""/home/sophon/.local/share/vifm/Trash/002_.viminfy.tmp
-""/home/sophon/.local/share/vifm/Trash/002_.viminfz.tmp
+""/home/sophon/.local/share/vifm/Trash/000_inferno.docx
 
 # Directory stack (oldest to newest):
 
@@ -1071,6 +1063,8 @@ t/home/sophon/.local/share/vifm/Trash/000_Public
 	/home/sophon/Public
 t/home/sophon/.local/share/vifm/Trash/000_Templates
 	/home/sophon/Templates
+t/home/sophon/.local/share/vifm/Trash/000_inferno.docx
+	/home/sophon/Documents/ComputerStuff/inferno/inferno.docx
 
 # State:
 f
