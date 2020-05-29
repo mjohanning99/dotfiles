@@ -21,6 +21,7 @@ alias mail="mbsync -a ; neomutt" #Automatically download new emails and open neo
 alias email="mbsync -a ; neomutt"
 alias mutt="mbsync -a ; neomutt"
 alias download_mail="mbsync -a"
+alias vifm="vifmrun"
 
 #Command Aliases
 #

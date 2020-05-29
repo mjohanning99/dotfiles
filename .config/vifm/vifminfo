@@ -1,0 +1,609 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'D
+	/home/sophon/Downloads
+	..
+1587032297
+'H
+	/home/sophon/
+	..
+1586802346
+'P
+	/home/sophon/Pictures
+	..
+1587032387
+'W
+	/home/sophon/Pictures/Wallpapers
+	..
+1587032413
+'b
+	/home/sophon/bin/
+	..
+1586802346
+'c
+	/home/sophon/.config
+	..
+1587032488
+'d
+	/home/sophon/Documents
+	..
+1587032305
+'h
+	/home/sophon/
+	..
+1586802346
+'k
+	/mnt
+	wow
+1587060846
+'m
+	/home/sophon/Programming/babble-on/assets
+	20200415180403_IMG_5995_copy_4500x3000.jpg
+1587043577
+'p
+	/home/sophon/Programming
+	..
+1587032352
+'w
+	/
+	sys
+1586948276
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/sophon/Desktop
+	..
+0
+d/home/sophon
+	Music
+4
+d/home/sophon/Music
+	..
+0
+d/home/sophon
+	Programming
+6
+d/home/sophon/Programming
+	babble-on
+1
+d/home/sophon/Programming/babble-on
+	about.markdown
+9
+d/home/sophon/Programming
+	babble-on
+1
+d/home/sophon
+	Downloads
+3
+d/home/sophon/Downloads
+	dmenu
+1
+d/home/sophon/Downloads/dmenu
+	dmenu
+8
+d/home/sophon/Downloads
+	dmenu
+1
+d/home/sophon
+	Documents
+2
+d/home/sophon/Documents
+	Programming
+2
+d/home/sophon/Documents/Programming
+	Books
+1
+d/home/sophon/Documents/Programming/Books
+	PHP
+4
+d/home/sophon/Documents/Programming/Books/PHP
+	PHPTheRightWay_files
+1
+d/home/sophon/Documents/Programming/Books/PHP/PHPTheRightWay_files
+	syntax.css
+1
+d/home/sophon/Documents/Programming/Books/PHP
+	PHPTheRightWay.htm
+2
+d/home/sophon/Documents/Programming/Books
+	Perl
+5
+d/home/sophon/Documents/Programming/Books/Perl
+	ModernPerl2016.pdf
+4
+d/home/sophon/Documents/Programming/Books
+	Perl
+5
+d/home/sophon/Documents/Programming
+	Notes
+2
+d/home/sophon/Documents/Programming/Notes
+	PandocBash.pdf
+6
+d/home/sophon/Pictures
+	2020-04-04-181632_566x110_scrot.png
+12
+d/home/sophon/.config
+	vifm
+38
+d/home/sophon/.config/vifm
+	scripts
+2
+d/home/sophon/.config/vifm/scripts
+	vifmimg
+2
+d/home/sophon/.config/vifm
+	scripts
+2
+d/home/sophon/.config
+	vifm
+38
+d/home/sophon/.config/vifm
+	vifminfo
+4
+d/home/sophon/.config
+	GIMP
+2
+d/home/sophon/.config/GIMP
+	2.10
+1
+d/home/sophon/.config/GIMP/2.10
+	filters
+7
+d/home/sophon/.config/GIMP/2.10/filters
+	..
+0
+d/home/sophon/.config/GIMP/2.10
+	gradients
+13
+d/home/sophon/Pictures
+	wow
+4
+d/home/sophon/Pictures/wow
+	15dbad3fc778a58210a14c13751e1a08.jpg
+15
+d/home/sophon/Pictures
+	Camera
+1
+d/home/sophon/Pictures/Camera
+	2013-09-20_13-09-24_514.mp4
+27
+d/home/sophon/Pictures
+	Wallpapers
+1
+d/home/sophon
+	Music
+5
+d/home/sophon/Pictures
+	Wallpapers
+1
+d/home/sophon/Downloads
+	..
+0
+d/home/sophon/Documents
+	Kamera-Uploads
+1
+d/home/sophon/Documents/Kamera-Uploads
+	2013-07-15 14.42.40.mp4
+13
+d/home/sophon/Documents
+	cam
+4
+d/home/sophon/Documents/cam
+	Sprachmemo 005.m4a
+58
+d/home/sophon/Documents
+	cam
+4
+d/home/sophon/Pictures
+	Wallpapers
+1
+d/home/sophon/Pictures/Wallpapers
+	..
+0
+d/home/sophon/Pictures
+	Camera
+2
+d/home/sophon/Pictures/Camera
+	2013-09-26_11-42-53_945.mp4
+22
+d/home/sophon/Pictures
+	wow
+4
+d/home/sophon
+	Pictures
+6
+d/home/sophon/Downloads
+	vifm
+7
+d/home/sophon/Documents
+	cam
+4
+d/home/sophon/Documents/cam
+	20140610_001229.jpg
+22
+d/home/sophon/Documents
+	Kamera-Uploads
+1
+d/home/sophon/Documents/Kamera-Uploads
+	desktop.ini
+15
+d/home/sophon/Documents
+	ftp
+5
+d/home/sophon
+	Pictures
+6
+d/home/sophon/Pictures
+	wow
+4
+d/
+	sys
+16
+d/home/sophon/Pictures/Wallpapers
+	Sci-Fi
+2
+d/home/sophon/Pictures/Wallpapers/Sci-Fi
+	61206_sci_fi_vintage_sci_fi.jpg
+4
+d/home/sophon/Downloads
+	directorylister
+4
+d/home/sophon/Downloads/directorylister
+	..
+0
+d/home/sophon/Downloads
+	20170501_124123.jpg
+8
+d/home/sophon/Programming
+	C
+2
+d/home/sophon/Programming/C
+	suckless
+1
+d/home/sophon/Programming/C/suckless
+	suckless-st
+2
+d/home/sophon/Programming/C/suckless/suckless-st
+	README.md
+3
+d/home/sophon/Programming/C/suckless
+	suckless-st
+2
+d/home/sophon/Downloads
+	JSesh-7.3.2.zip
+17
+d/home/sophon/Pictures
+	wow
+4
+d/home/sophon/Pictures/wow
+	9seqa.jpg
+12
+d/home/sophon/Pictures
+	Wallpapers
+3
+d/home/sophon/Pictures/Wallpapers
+	4HISFFNX5pF_DXrA_onZPzd0HC11LKUmFhX1rzf-DTE.png
+14
+d/home/sophon/Pictures
+	Wallpapers
+3
+d/home/sophon
+	Pictures
+6
+d/home/sophon/Pictures
+	Wallpapers
+3
+d/home/sophon/Pictures/Wallpapers
+	4HISFFNX5pF_DXrA_onZPzd0HC11LKUmFhX1rzf-DTE.png
+14
+d/home/sophon/Pictures
+	wow
+4
+d/home/sophon
+	Pictures
+6
+d/home/sophon/Pictures
+	Wallpapers
+3
+d/home/sophon
+	MEGAsync
+4
+d/home/sophon/MEGAsync
+	..
+0
+d/home/sophon
+	MEGAsync
+4
+d/home/sophon/MEGAsync
+	TheIntricaciesOfEgyptianHieroglyphics
+1
+d/home/sophon/MEGAsync/TheIntricaciesOfEgyptianHieroglyphics
+	Photos
+6
+d/home/sophon/Programming
+	Ruby
+3
+d/home/sophon/Programming/Ruby
+	..
+0
+d/home/sophon/Programming
+	Web
+4
+d/home/sophon/Pictures
+	wow
+4
+d/home/sophon/Pictures/wow
+	fds_files
+1
+d/home/sophon/Pictures/wow/fds_files
+	10517710_476726619130112_759581528461896646_n.jpg
+17
+d/home/sophon/Pictures/wow
+	fds_files
+1
+d/home/sophon/Pictures
+	31e1802cdf4b86556687125547773f6a.png
+5
+d/home/sophon/Downloads
+	JSesh-7.3.2
+1
+d/home/sophon
+	scrot.png
+58
+d
+
+# Right window history (oldest to newest):
+D/home/sophon/Documents/jeytasfilmen.jimdofree.com
+	..
+0
+D/home/sophon/Pictures
+	Camera
+1
+D/home/sophon/.config
+	vifm
+31
+D/home/sophon/.config/vifm
+	vifmrc
+5
+D/home/sophon/Programming
+	babble-on
+1
+D/home/sophon/Programming/babble-on
+	assets
+3
+D/home/sophon/Programming/babble-on/assets
+	t60-ram-loc.jpg
+4
+D/home/sophon/Programming/babble-on
+	assets
+3
+D/home/sophon/Programming/babble-on/assets
+	t60-ram-loc.jpg
+4
+D/home/sophon/Programming/babble-on
+	404.html
+5
+D/home/sophon
+	Documents
+2
+D/home/sophon/Documents
+	Language
+1
+D/home/sophon/Documents/Language
+	Ancient Egyptian
+1
+D/home/sophon/Documents/Language/Ancient Egyptian
+	BooksEtc
+1
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc
+	Grammar
+2
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc/Grammar
+	AegyptischeGrammatik-AdolfErman.pdf
+1
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc
+	DecansAndCalendar
+1
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc/DecansAndCalendar
+	DecansAstronomersApproach.pdf
+1
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc
+	DecansAndCalendar
+1
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc/DecansAndCalendar
+	Kahl_Textkritische_Bemerkungen_1993.pdf
+4
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc
+	DecansAndCalendar
+1
+D/home/sophon/Documents/Language/Ancient Egyptian
+	BooksEtc
+1
+D/home/sophon/Documents/Language
+	Ancient Egyptian
+1
+D/home/sophon/Documents
+	Programming
+2
+D/home/sophon/Documents/Programming
+	Books
+1
+D/home/sophon/Documents/Programming/Books
+	LiUnix
+3
+D/home/sophon/Documents/Programming
+	Books
+1
+D/home/sophon/Documents
+	Programming
+2
+D/home/sophon
+	Downloads
+3
+D/home/sophon/Downloads
+	dmenu
+1
+D/home/sophon/Downloads/dmenu
+	..
+0
+D/home/sophon/Downloads
+	suckless-st
+2
+D/home/sophon/Downloads/suckless-st
+	config.h
+6
+D/home/sophon
+	Documents
+2
+D/home/sophon/Documents
+	Language
+1
+D/home/sophon/Documents/Language
+	Ancient Egyptian
+1
+D/home/sophon/Documents/Language/Ancient Egyptian
+	BooksEtc
+1
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc
+	Wiktionary
+5
+D/home/sophon/Documents/Language/Ancient Egyptian
+	..
+0
+D/home/sophon/Documents/Language
+	Ancient Egyptian
+1
+D/home/sophon/Documents/Language/Ancient Egyptian
+	BooksEtc
+1
+D/home/sophon/Documents/Language/Ancient Egyptian/BooksEtc
+	AegyptischeGrammatik-AdolfErman.pdf
+7
+D/home/sophon/Documents/Language/Ancient Egyptian
+	..
+0
+D/home/sophon
+	Documents
+2
+D/home/sophon/Documents
+	2013-08-25_11-34-17_886.jpg
+8
+D
+
+# Command line history (oldest to newest):
+:cd /mnt
+:mkdir test
+:diff
+:tree
+:un
+:w
+:view
+:sort
+:q
+:wal
+:color
+:colorz
+:mkc
+
+# Search history (oldest to newest):
+/mnt
+/rofi
+/con
+/co
+/vi
+/.config
+/cifm
+/.conf
+/g'
+/confi
+/mutt
+/config
+//config
+/range
+/pdf
+/vifm
+/vif
+/neo
+/neomut
+/mut
+/msmp
+/gitignore
+/ignore
+
+# Prompt history (oldest to newest):
+p20200415180403_IMG_5995_copy_4500x3000.jpg
+p20200415180403_IMG_
+pram
+pt60-outside
+pt60-ram-loc
+pREADME.md
+pREADME
+pconfig.h
+p2020-04-16-adventure-part-4.md
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/sophon/.local/share/vifm/Trash/000_.viminfo.tmp
+	/home/sophon/.viminfo.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminfr.tmp
+	/home/sophon/.viminfr.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminfs.tmp
+	/home/sophon/.viminfs.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminft.tmp
+	/home/sophon/.viminft.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminfu.tmp
+	/home/sophon/.viminfu.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminfv.tmp
+	/home/sophon/.viminfv.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminfw.tmp
+	/home/sophon/.viminfw.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminfx.tmp
+	/home/sophon/.viminfx.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminfy.tmp
+	/home/sophon/.viminfy.tmp
+t/home/sophon/.local/share/vifm/Trash/000_.viminfz.tmp
+	/home/sophon/.viminfz.tmp
+t/home/sophon/.local/share/vifm/Trash/000_1575867512.wolferion_anthro_swellow_tf_coltron.png
+	/home/sophon/Pictures/Wallpapers/1575867512.wolferion_anthro_swellow_tf_coltron.png
+t/home/sophon/.local/share/vifm/Trash/000_awk
+	/home/sophon/awk
+t/home/sophon/.local/share/vifm/Trash/000_smart
+	/home/sophon/smart
+t/home/sophon/.local/share/vifm/Trash/000_dotfiles
+	/home/sophon/dotfiles
+t/home/sophon/.local/share/vifm/Trash/000_rofi
+	/home/sophon/.config/rofi
+t/home/sophon/.local/share/vifm/Trash/000_termite
+	/home/sophon/.config/termite
+t/home/sophon/.local/share/vifm/Trash/000_vlc
+	/home/sophon/.config/vlc
+t/home/sophon/.local/share/vifm/Trash/000_vifmrc
+	/home/sophon/.config/vifmrc
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0
