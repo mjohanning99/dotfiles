@@ -56,10 +56,10 @@ exec --no-startup-id volumeicon
 
 # Start Applications
 bindsym $mod+Ctrl+b exec st -e 'bmenu'
-bindsym $mod+F2 exec qutebrowser
-bindsym $mod+F3 exec st -e ranger
+bindsym $mod+F2 exec brave
+bindsym $mod+F3 exec st -e vifmrun
 bindsym $mod+Shift+F3 exec gksu pcmanfm
-bindsym $mod+F5 exec st -e 'mocp'
+bindsym $mod+F5 exec artha
 bindsym $mod+t exec --no-startup-id pkill compton
 bindsym $mod+Ctrl+t exec --no-startup-id compton -b
 bindsym $mod+Shift+d --release exec "killall dunst; exec notify-send 'restart dunst'"
@@ -307,14 +307,13 @@ bindsym $mod+9 exec --no-startup-id blurlock
 # Autostart applications
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id nitrogen --restore; sleep 1; compton -b
-exec --no-startup-id manjaro-hello
+#exec --no-startup-id manjaro-hello
 exec --no-startup-id nm-applet
 exec --no-startup-id xfce4-power-manager
 exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
 # exec --no-startup-id blueman
 # exec_always --no-startup-id sbxkb
-exec --no-startup-id start_conky_maia
 # exec --no-startup-id start_conky_green
 #exec --no-startup-id xautolock -time 120 -locker blurlock
 exec_always --no-startup-id ff-theme-util
@@ -488,3 +487,5 @@ mode "$mode_gaps_outer" {
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
+
+exec "setxkbmap -option caps:escape"
