@@ -26,6 +26,7 @@ Plugin 'jacoborus/tender.vim' "Theme Tender
 " Plugin 'thoughtbot/vim-rspec' "RSpec Plugin
 Plugin 'MikeCoder/markdown-preview.vim' "Markdown preview
 Plugin 'lervag/vimtex' " LaTeX 
+Bundle 'ron89/thesaurus_query.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()
@@ -112,3 +113,20 @@ set noeb vb t_vb= "Beeping can fuck right off
 set t_ut="" "Disabling Vim's 'Background Color Erase' option to mitigate the problem of wrong background colour rendering
 set breakindent "For better indentation
 autocmd BufWritePost config.h !sudo make clean install
+
+func! WordProcessor()
+  " movement changes
+  map j gj
+  map k gk
+  " formatting text
+  setlocal formatoptions=1
+  setlocal noexpandtab
+  setlocal wrap
+  setlocal linebreak
+  " spelling and thesaurus
+  setlocal spell spelllang=en_gb
+  set thesaurus+=/home/sophon/.vim/thesaurus/mthesaur.txt
+  " complete+=s makes autocompletion search the thesaurus
+  set complete+=s
+endfu
+com! WP call WordProcessor()
